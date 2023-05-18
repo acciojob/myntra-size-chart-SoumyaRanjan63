@@ -5,5 +5,32 @@ table, th ,tr ,td {
 	border-collapse:collapse;
 	margin:0px;
 	padding:0px 30px;
-	
+}
+.indianred{
+	background-color:indianred;
+	color:white;
+}table, th, tr ,td {
+	border:1px solid black;
+	border-collapse:collapse;
+	padding:0px 50px 0px 0px;
+}
+ th{ 
+    background-color: indianred;
+    color: rgb(255, 255, 204);
+}
+ .waist {
+    background-color:lightpink;
+    color: white;
+}
+.goldpink {
+    background-color:#FFE6E8;
+    color: black;
+}
+.silver{
+    background-color:silver;
+    color: black;
+    padding:;
+}
+.dustypink{
+    padding:0px 0px 0px 50px;
 }
